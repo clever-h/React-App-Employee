@@ -1,0 +1,29 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "HamidReza Rafiei",
+      "email": "H.rafie@zi-tel.com",
+      "phone": "09357462814"
+    },
+    {
+      "id": 2,
+      "name": "Javad Bathai",
+      "email": "s.bathai@zi-tel.com",
+      "phone": "09357462814"
+    },
+    {
+      "id": 3,
+      "name": "ali Ahmadi",
+      "email": "s.ahmadi@zi-tel.com",
+      "phone": "09357462814"
+    },
+    {
+      "name": "reza hosini",
+      "email": "r.hosini@zi-tel.com",
+      "phone": "0929292122",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
